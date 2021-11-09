@@ -1,9 +1,12 @@
 # Creating Effective Scientific Figures 
 Slides and additional resources for the JHU Data Services Workshop on Creating Effective Scientific Figures
+## General Resources
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+* [Nature Methods Methagora - Data Visualization Points of View Column](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html): A must read series of blog posts on creating effective scientific figures. Much of this workshop's contents is derived from these posts, so they are worth reading in detail.
 
+* [UT Austin - Design Strategies for Scientific Figures](https://cns.utexas.edu/images/CNS/Deans_Office/Communications/Files/design-tips-for-scientists_GUIDE.pdf):  An excellent short guide and checklist on ensuring your scientific figures are well designed.
+
+* [Babraham Institute Bioinformatics Training Courses - Scientific Figure Design Workshop](https://www.bioinformatics.babraham.ac.uk/training.html): A comprehensive tutorial on designing effective scientific figures (and a number of other computationally focused workshops) 
 ## Color
 
 The role of color in data visualization is profound. Choosing the right colors for your data visualization is essential. Some considerations for appropriate color choice include accessibility (ensuring colors are distinguishable, even to those with colorblindness), perceptual uniformity, and format (will the colors be differentiable even when printed in grayscale).  
@@ -18,6 +21,9 @@ When working in scientific visualization, pseudocoloring 2D and 3D scalar fields
 
 * [Color Map Advice for Scientific Visualization](https://www.kennethmoreland.com/color-advice/):  Kenneth Moreland, PhD at Sandia National Laboratories, offers some useful advice on choosing the appropriate color map for your scientific visualization.
 
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
