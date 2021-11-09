@@ -14,6 +14,9 @@ The role of color in data visualization is profound. Choosing the right colors f
 * [Practical Rules for Using Color in Charts](http://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf): Stephen Few offers an excellent guide on for choosing colors for data visualizations.
 
 * [![Color Brewer](ColorBrewer.png)](http://www.colorbrewer2.org):  Arguably the most popular color palette generator is [ColorBrewer](http://www.colorbrewer2.org). ColorBrewer allows for the creation of colorblind safe, print friendly safe, and photocopy safe color palettes so your data visualizations will be accessible and usable to your entire audience. 
+## Image Processing Ethics
+
+* [Digital Imaging: Ethics](http://microscopy.arizona.edu/sites/default/files/sites/default/files/upload/digital_image_ethics.pdf): A good guide on what is acceptable and what is not regarding digitial image manipulation in scientific imaging. 
 
 ### Color in Scientific Visualization 
 
