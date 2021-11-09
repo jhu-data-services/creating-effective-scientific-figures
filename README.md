@@ -21,11 +21,17 @@ When working in scientific visualization, pseudocoloring 2D and 3D scalar fields
 
 * [Color Map Advice for Scientific Visualization](https://www.kennethmoreland.com/color-advice/):  Kenneth Moreland, PhD at Sandia National Laboratories, offers some useful advice on choosing the appropriate color map for your scientific visualization.
 
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+## License 
+The presentation materials are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/), attributable to [Data Services](https://dataservices.library.jhu.edu/), Johns Hopkins University.  
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+The images, external resources, and cheatsheets linked in this repository may have other licenses and terms of use.
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+## Citation
+Please cite this material as:    
+Johns Hopkins University Data Services. [Date of workshop]. [Workshop title]. [URL] 
+
